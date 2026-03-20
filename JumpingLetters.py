@@ -15,4 +15,3 @@ for i in range(0, nLen):
         time.sleep(.005) 
 scr.getch()
 curses.endwin()
- 
